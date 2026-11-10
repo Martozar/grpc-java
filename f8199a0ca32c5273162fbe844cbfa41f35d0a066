@@ -1,0 +1,21 @@
+services/src/main/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactory.java
+  s_0271b0dc8a6fd3::t_47e0db83138b17 37,408-415
+services/src/test/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactoryTest.java
+  s_0271b0dc8a6fd3::t_669ab871d352ed 564-594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9889b3fb34eebacf1d79d8986c376aeebdacd59d",
+  "prompts": {},
+  "sessions": {
+    "s_0271b0dc8a6fd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9af94042-8c9d-4848-ad0c-5844bf2910aa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>"
+    }
+  }
+}
