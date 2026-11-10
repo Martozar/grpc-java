@@ -1,12 +1,12 @@
-services/src/main/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactory.java
-  s_0271b0dc8a6fd3::t_47e0db83138b17 37,408-415
 services/src/test/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactoryTest.java
   s_0271b0dc8a6fd3::t_669ab871d352ed 564-594
+services/src/main/java/io/grpc/protobuf/services/HealthCheckingLoadBalancerFactory.java
+  s_0271b0dc8a6fd3::t_47e0db83138b17 37,408-415
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "9889b3fb34eebacf1d79d8986c376aeebdacd59d",
+  "base_commit_sha": "f8199a0ca32c5273162fbe844cbfa41f35d0a066",
   "prompts": {},
   "sessions": {
     "s_0271b0dc8a6fd3": {
